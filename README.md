@@ -2,7 +2,7 @@
 Program to convert between Cubic Castles .modl files and .obj files
 
 Cubic Castles: https://cubiccastles.com/  
-Link to the forum post: 
+Link to the forum post: https://forums2.cubiccastles.com/index.php?p=/discussion/32381/cc-modl-converter/  
 
 ## .modl file format:
 ```
